@@ -1,2 +1,2 @@
-# collision-algorithim
-two rectangles changing color when they collide.
+# p5.play-boilerplate
+Boiler plate for p5.play
